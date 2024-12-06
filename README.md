@@ -1,10 +1,9 @@
-<div align="center">
-  <h1> <img src="https://graph.org/file/d9a8d0d3485b1d65e9680.jpg" width="80px"><br/>Mr.Stark</h1>
-</div>
 
-<p align="center">
-  <a href="https://t.me/Mr_StarkBot" target="_blank"><img alt="" src="https://img.shields.io/badge/Telegram-Bot-blue.svg?style=normal&logo=telegram&logoColor=white" style="vertical-align:center" /></a>
-</p>
+![](https://graph.org/file/d9a8d0d3485b1d65e9680.jpg)
+
+# Mr.Stark
+
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg?style=normal&logo=telegram&logoColor=white)](https://t.me/Mr_StarkBot)
 
 
 # Description
